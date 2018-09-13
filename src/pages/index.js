@@ -3,10 +3,12 @@ import Link from 'gatsby-link'
 
 const IndexPage = () => (
   <div>
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <Link to="/page-2/">Go to page 2</Link>
+    <h1>Hi</h1>
+    <p>I am <a href="https://www.salocinten.info" target="_blank">Salocin.TEN</a></p>
+    <p>I do not understand the need to make this thing using REACT JS.</p>
+    <p>It would be much simpler to use something else like Vue JS</p>
+    <p>Anyway here you go, the thing to apply for the virtual hackathon.</p>
+    <p>Thanks.</p>
   </div>
 )
 
